@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236569209616",
+    "project_id": "arrivo-9f914",
+    "storage_bucket": "arrivo-9f914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236569209616:android:2c40c3f293de19a851d395",
+        "android_client_info": {
+          "package_name": "com.daon.arrivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236569209616-pvvg3cclfuk4o3arhdpe9nml9rrrvmb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJy3dmrysr_vD4IHxnP7sJAJDrPUydgtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236569209616-pvvg3cclfuk4o3arhdpe9nml9rrrvmb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
